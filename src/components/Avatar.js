@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import avatarImg from '../assets/avatar-image.png'
+import avatarImg from '../assets/AvatarImg.png'
 import '../styles/avatar.css'
 
 
